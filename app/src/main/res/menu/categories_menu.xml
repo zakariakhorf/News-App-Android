@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/world_news"
+        android:icon="@drawable/internet"
+        android:title="@string/world" />
+
+    <item
+        android:id="@+id/travel_news"
+        android:icon="@drawable/suitcase"
+        android:title="@string/travel"/>
+
+    <item
+        android:id="@+id/technology_news"
+        android:icon="@drawable/smartphone"
+        android:title="@string/technology" />
+
+    <item
+        android:id="@+id/culture_news"
+        android:icon="@drawable/theatermasks"
+        android:title="@string/culture"/>
+
+    <item
+        android:id="@+id/business_news"
+        android:icon="@drawable/people"
+        android:title="@string/business"/>
+
+    <item
+        android:id="@+id/sport_news"
+        android:icon="@drawable/football"
+        android:title="@string/sports"/>
+
+    <item
+        android:id="@+id/environment_news"
+        android:icon="@drawable/tree"
+        android:title="@string/environment" />
+
+</menu>
